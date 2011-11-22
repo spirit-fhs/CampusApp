@@ -1,0 +1,409 @@
+[
+  {
+    "type": "0",
+    "name": "Celarius Bibliothek",
+    "description": "Bibliothek der FH Schmalkalden.\n\nÖffnungszeiten:\nMontag - Donnerstag\n09.30 - 20.00 Uhr\nFreitag\n09.30 - 15.00 Uhr",
+    "location": [
+			50.71748, 10.465094
+    ], 
+		"extra": [
+			"Online Recherche", "http://katalog.bibliothek.tu-ilmenau.de/fhs" 
+		]			
+	},
+	{
+    "type": "0",
+    "name": "Haus A",
+    "description": "Hier finden Sie:\n - Studierenden-Servicebüro\n - Zentrale Studienberatung\n - Prüfungsamt\n - Hochschulsport",
+    "location": [
+			50.717137, 10.463689
+    ], 
+		"extra": [
+			null, null
+		]			
+	},
+	{
+    "type": "0",
+    "name": "Blechhammer Wohnheim",
+    "description": "",
+    "location": [
+			50.716563, 10.464156
+    ],
+		"extra": [
+			null, null 
+		]	
+  },
+  {
+    "type": "0",
+    "name": "Haus H",
+    "description": "Hörsaalgebäude",
+    "location": [
+			50.71677, 10.46525
+    ],
+		"extra": [
+			null, null 
+		]	
+  },
+	{
+    "type": "0",
+    "name": "Haus B",
+    "description": "Fakultät:\n - Informatik\n - Elektrotechnik",
+    "location": [
+			50.715659, 10.467921
+    ],
+		"extra": [
+			"Fakultät Elektrotechnik", "http://www.fh-schmalkalden.de/Elektrotechnik.html" 
+		]	
+  },
+	{
+    "type": "0",
+    "name": "Haus C",
+    "description": "Fakultät:\n - Wirtschaftswissenschaften\n\nAula",
+    "location": [
+			50.717266, 10.462992
+    ],
+		"extra": [
+			"Fakultät Wirtschaft", "http://www.fh-schmalkalden.de/Wirtschaft.html"
+		]	
+  },
+	{
+    "type": "0",
+    "name": "Haus G",
+    "description": "Fakultät:\n - Maschinenbau\n\nZentralwerkstadt",
+    "location": [
+			50.717748, 10.46341
+    ],
+		"extra": [
+			"Fakultät Maschinenbau", "http://www.fh-schmalkalden.de/Maschinenbau.html"
+		]	
+  },
+	{
+    "type": "0",
+    "name": "Haus D",
+    "description": "Fakultät:\n - Maschinenbau\n - Wirtschaftsrecht\n\nZentrum für Fremdsprachen",
+    "location": [
+			50.718026, 10.463045
+    ],
+		"extra": [
+			"Fakultät Wirtschaftsrecht", "http://www.fh-schmalkalden.de/Wirtschaftsrecht.html" 
+		]	
+  },
+  {
+    "type": "0",
+    "name": "Haus F",
+    "description": "Fakultät:\n - Informatik",
+    "location": [
+			50.715241, 10.467321
+    ],
+		"extra": [
+			"Fakultät Informatik", "http://www.fh-schmalkalden.de/Informatik-p-44.html" 
+		]	
+  },
+	{
+    "type": "0",
+    "name": "Haus K",
+    "description": "Rektorat",
+    "location": [
+			50.717418, 10.46385
+    ],
+		"extra": [
+			null, null
+		]	
+  },
+	{
+    "type": "0",
+    "name": "Haus E",
+    "description": "Fakultät:\n - Maschinenbau\n - Elektrotechnik",
+    "location": [
+			50.715741, 10.467208
+    ],
+		"extra": [
+			null, null
+		]	
+  },
+  {
+    "type": "1",
+    "name": "Mensa Blechhammer",
+    "description": "Das Studentenwerk bietet in seiner Mensa Frühstück und Mittagessen.\n\nÖffnungszeiten:\nMontag bis Donnerstag\n7:00 - 14:00 Uhr\nFreitag\n7:00 - 13.30 Uhr",
+    "location": [
+	  50.716501, 10.464805
+    ],
+		"extra": [
+			Speiseplan, "http://www.stw-thueringen.de/swe-ei/mensen/speiseplan.php?mensaid=4"  
+		]	
+  },
+  {
+    "type": "1",
+    "name": "Cafeteria",
+    "description": "Die Cafeteria bietet vom Mittag bis zum Abendbrot warme Speisen, Snacks, Kuchen und Getränke.\n\nÖffnungszeiten:\nMontag bis Donnerstag\n11:00 - 22:00 Uhr",
+    "location": [
+			50.716749, 10.464419
+		],
+		"extra": [
+			null, null 
+		]	
+	},
+  {
+    "type": "1",
+    "name": "Eß-Punkt",
+    "description": "Imbiss",
+    "location": [
+			50.718077, 10.463995
+    ],
+		"extra": [
+			null, null 
+		]	
+  },
+	{
+    "type": "1",
+    "name": "McDonalds",
+    "description": "Imbiss",
+    "location": [
+			50.715347, 10.468356
+    ],
+		"extra": [
+			"McDonalds Homepage", "http://www.mcdonalds.de/" 
+		]	
+  },
+	{
+    "type": "1",
+    "name": "Lidl",
+    "description": "Supermarkt",
+    "location": [
+			50.717456, 10.467514
+    ],
+		"extra": [
+			"Lidl Homepage", "http://www.lidl.de/" 
+		]	
+  },
+	{
+    "type": "1",
+    "name": "Aldi",
+    "description": "Supermarkt",
+    "location": [
+			50.71822, 10.466511
+    ],
+		"extra": [
+			"Aldi Homepage", "http://www.aldi-nord.de/" 
+		]	
+  },
+	{
+    "type": "1",
+    "name": "Edeka",
+    "description": "Supermarkt",
+    "location": [
+			50.718532, 10.466688
+    ],
+		"extra": [
+			"Edeka Homepage", "http://www.edeka.de/EDEKA/Content/Home/index.jsp" 
+		]	
+  },
+	{
+    "type": "2",
+    "name": "Fussballplatz",
+    "description": "Kann jederzeit für individuelles Spielen genutzt werden.",
+    "location": [
+			50.716223, 10.466307
+    ],
+		"extra": [
+			null, null 
+		]	
+  },
+	{
+    "type": "2",
+    "name": "Freibad Näherstille",
+    "description": "Das Freibad Näherstille öffnet vom 15.Mai bis 15.September seine Türen für alle Badegäste.",
+    "location": [
+			50.715027, 10.469177
+    ],
+		"extra": [
+			null, null 
+		]	
+  },
+	{
+    "type": "2",
+    "name": "Volleyballplatz",
+    "description": "Beachvolleyball kann individuell auf dem Platz am Campus gespielt werden. Hierzu ist es notwendig, sich beim Wachdienst (Haus A) den Schlüssel geben zu lassen, der gegen Abgabe eines Lichtbildausweises ausgehändigt wird.",
+    "location": [
+			50.715625, 10.466462
+    ],
+		"extra": [
+			null, null 
+		]	
+  },
+	{
+    "type": "2",
+    "name": "Basketballplatz",
+    "description": "Kann jederzeit für individuelles Spielen genutzt werden.",
+    "location": [
+			50.715876, 10.465958
+    ],
+		"extra": [
+			null, null 
+		]	
+  },
+	{
+    "type": "2",
+    "name": "FH Sporthalle",
+    "description": "Die FH Schmalkalden bietet Studierenden die Möglichkeit an verschiedenen Sportkursen teilzunehmen.",
+    "location": [
+			50.717588, 10.463212
+    ],		
+		"extra": [
+			"Sportangebote", "http://www.fh-schmalkalden.de/Sportangebote-p-3513.html?highlight=sporthalle" 
+		]	
+  },
+	{
+    "type": "2",
+    "name": "Stadion Am Walperloh",
+    "description": "Heimatstadion des FSV Schmalkalden e.V.",
+    "location": [
+			50.720686, 10.468501
+    ],
+		"extra": [
+			"FSV Schmalkalden e.V.", "http://www.fsv-schmalkalden.de/cms/index.php?id=18"			
+		]
+  },
+	{
+    "type": "2",
+    "name": "JOY Fitnesscenter",
+    "description": "Fitness & Gesundheitszentrum mit unterschiedlichen Angeboten rund ums körperliche Wohlbefinden.",
+    "location": [
+			50.719694, 10.473962
+    ],
+		"extra": [
+			"JOY Fitnesscenter", "http://www.joymed.de/"		
+		]	
+  },
+	{
+    "type": "2",
+    "name": "Fitness- und Krafttrainingsraum",
+    "description": "Allen Interessierten des Fitness- und Kraftsports steht im Wohnheim auf dem Campus ein Kraftraum zum individuellem Training zur Verfügung. Er ist mit Einzelgeräten z.B. Zugapparat, Rücken-Station, Bodenhantel, Drückerbank sowie einem Laufband ausgestattet.",
+    "location": [
+			50.71661, 10.464156
+    ],
+		"extra": [
+			null, null 
+		]	
+  },
+	{
+    "type": "3",
+    "name": "Bahnhof FH Schmalkalden",
+    "description": "Richtungen:\n - Wernshausen\n - Zella-Mehlis",
+    "location": [
+			50.716416, 10.463356
+    ],
+		"extra": [
+			"Deutsche Bahn", "http://www.bahn.de/p/view/index.shtml" 
+		]	
+  },
+	{
+    "type": "3",
+    "name": "Bushaltestelle Näherstiller Straße",
+    "description": "In Schmalkalden verkehrt die Meininger Busbetriebs GmbH.\n\nBuslinien: D und E",
+    "location": [
+			50.717789, 10.465963
+    ],
+		"extra": [
+			"MBB Linienpläne", "http://www.mbb-mgn.de/?id=8" 
+		]	
+  },
+	{
+    "type": "4",
+    "name": "Parkplatz Haus D",
+    "description": "",
+    "location": [
+			50.71802, 10.462455
+    ],
+		"extra": [
+			null, null
+		]	
+  },
+	{
+    "type": "4",
+    "name": "Parkplatz Wohnheim",
+    "description": "",
+    "location": [
+			50.716569, 10.46378
+    ],
+		"extra": [
+			null, null
+		]	
+  },
+	{
+    "type": "4",
+    "name": "Parkplatz Haus F",
+    "description": "",
+    "location": [
+			50.715292, 10.46672
+    ],
+		"extra": [
+			null, null
+		]	
+  },
+	{
+    "type": "4",
+    "name": "Parkplatz Haus B",
+    "description": "",
+    "location": [
+			50.715662, 10.467659
+    ],
+		"extra": [
+			null, null
+		]	
+  },
+	{
+    "type": "4",
+    "name": "Parkplatz Haus B",
+    "description": "",
+    "location": [
+			50.715374, 10.46805
+    ],
+		"extra": [
+			null, null
+		]	
+  },
+	{
+    "type": "4",
+    "name": "Parkplatz McDonalds",
+    "description": "",
+    "location": [
+			50.715054, 10.467954
+    ],
+		"extra": [
+			null, null
+		]	
+  },
+	{
+    "type": "4",
+    "name": "Parkplatz Schwimmbad",
+    "description": "",
+    "location": [
+			50.715391, 10.469059
+    ],
+		"extra": [
+			null, null
+		]	
+  },
+	{
+    "type": "4",
+    "name": "Parkplatz Aldi",
+    "description": "",
+    "location": [
+			50.718346, 10.465947
+    ],
+		"extra": [
+			null, null
+		]	
+  },
+	{
+    "type": "4",
+    "name": "Parkplatz Lidl",
+    "description": "",
+    "location": [
+			50.717276, 10.467803
+    ],
+		"extra": [
+			null, null
+		]	
+  }
+]

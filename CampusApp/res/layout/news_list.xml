@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+	android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+    android:orientation="vertical" >   
+	
+	<FrameLayout
+   		android:layout_width="fill_parent"
+    	android:layout_height="wrap_content" >
+   
+	    <ImageView
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:src="@drawable/layout_header_small" />	
+	    	
+	    <TextView
+	    	android:id="@+id/infotext_newsgroup"
+	    	android:layout_width="wrap_content"
+	    	android:layout_height="wrap_content"	    	
+	    	android:layout_gravity="right|bottom"
+	    	android:paddingRight="10dip"
+	    	android:paddingBottom="3dip"
+	    	android:textStyle="bold|italic"
+	    	android:textColor="#00386b"
+	    	android:text="@string/infotext_news" />
+	    		
+   	</FrameLayout>
+    	
+	<FrameLayout 
+		android:layout_width="fill_parent"
+    	android:layout_height="fill_parent" >      
+    		
+	   	<ListView 
+			android:id="@+id/news_list"   
+		    android:layout_width="fill_parent"
+		    android:layout_height="fill_parent" />    
+		     
+	   	<TextView     
+	    	android:id="@+id/newslist_empty"   		
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="fill_parent"
+	    	android:gravity="center"
+	    	android:text="@string/no_entries"
+	    	android:visibility="gone" />	    
+	    
+	</FrameLayout>   
+	
+</LinearLayout>

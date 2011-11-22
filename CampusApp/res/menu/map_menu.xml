@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">       
+    <item android:id="@+id/layer"
+          android:icon="@android:drawable/ic_menu_mapmode" 
+    		android:title="Ebenen" >     
+        <menu>
+            <item android:id="@+id/street"
+              android:title="Karte" />
+        	<item android:id="@+id/satelite"
+              android:title="Satellit" />
+        </menu>
+    </item>
+</menu>

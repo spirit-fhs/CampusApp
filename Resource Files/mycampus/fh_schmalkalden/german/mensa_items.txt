@@ -1,0 +1,57 @@
+[
+  {    
+    "date":[
+			2011, 05, 16
+		],
+		"meal": [
+			[ "Menu 1", "Erbseneintopf mit Bockwurst, Brot, Obst", "1,50" ],
+			[ "Menu 2", "marinierter Hering Hausfrauen Art, Butterkartoffeln, Salat", "2,00" ],
+			[ "Menu 3", "Chinaschnitte, Currysauce, Reis, Salat", "1,75" ],
+			[ "Menu 4", "Grillhähnchen mit Ketchup-Curry-Dip und Pommes frites, Salat", "3,00" ]						
+		]   	
+	},
+	{    
+    "date":[
+			2011, 05, 17
+		],
+		"meal": [
+			[ "Menu 1", "Kräuterrührei mit Rahmspinat und Petersilienkartoffeln", "1,50" ],
+			[ "Menu 2", "Paprikaschote mit Rahmensauce, Kräuterreis und Salat", "1,75" ],
+			[ "Menu 3", "geschmorte Champignons auf Riesenrösti, QuarkDip", "2,00" ],
+			[ "Menu 4", "Hähnchen Cordon bleu, Mischgemüse, Pommes frites", "2,30" ]						
+		]   	
+	},
+	{    
+    "date":[
+			2011, 05, 18
+		],
+		"meal": [
+			[ "Menu 1", "Pichelsteiner Eintopf mit Huhn, Brot, Obst", "1,50" ],
+			[ "Menu 2", "Paprika-Rahmgulasch mit Rotkohl und Kräuterkartoffeln", "2,00" ],
+			[ "Menu 3", "Vorsuppe, 3 Hefeklöße mit Heidelbeeren", "1,75" ],
+			[ "Menu 4", "Schweinesteak mit Tomaten und Mozzarella überbacken, Buttererbsen, Pommes frites", "2,60" ]						
+		]   	
+	},
+	{    
+    "date":[
+			2011, 05, 19
+		],
+		"meal": [
+			[ "Menu 1", "Nudelsuppe mit Rindfleisch, Brötchen, Nachspeise", "1,50" ],
+			[ "Menu 2", "Hackbraten in Rahmsoße, Mischgemüse, Petersilienkartoffeln", "1,75" ],
+			[ "Menu 3", "Eieromelette Champignon mit Buttersoße und Kartoffelpüree, Salat", "2,00" ],
+			[ "Menu 4", "Thür. Rostbrätel mit Kartoffelsalat, Salatbeilage", "2,30" ]						
+		]   	
+	},
+	{    
+    "date":[
+			2011, 05, 20
+		],
+		"meal": [
+			[ "Menu 1", "gebr. Schweineleber mit Kartoffelpüree, Salat", "1,50" ],
+			[ "Menu 2", "Fleischsülze mit Remoulade, Bratkartoffeln und Salat", "2,00" ],
+			[ "Menu 3", "Chinapfanne mit Nudelreis, Nachspeise", "1,75" ],
+			[ "Menu 4", "Hähnchenbrustfilet Milano, Tomaten-Mozzarella-Sauce, Erbsenreis, Salat", "2,60" ]						
+		]   	
+	}		
+]

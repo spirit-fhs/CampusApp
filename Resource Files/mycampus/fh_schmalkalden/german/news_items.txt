@@ -1,0 +1,119 @@
+[
+  {
+    "category": "Informatik",		
+    "date":[
+			2011, 05, 02
+		],
+		"title": "Lehrstuhl für Visuelle Kommunikation besetzt",
+    "description": "Zum Sommersemester 2011 hat der neuberufene Professor für Visuelle Kommunikation, Herr Professor Diplom-Grafiker Joachim Dimanski seinen Lehrbetrieb aufgenommen. Wir begrüßen ihn recht herzlich in der Fakultät für Informatik und freuen uns auf eine gute Zusammenarbeit.",
+    "url": null					
+	},
+	{
+    "category": "Informatik",
+    "date":[
+			2011, 04, 24
+		],
+		"title": "Thüringer Informatik-Professoren zertifizieren sich in IT-Governance",
+    "description": "In dem deutschlandweit einzigartigen Bachelor-Studiengang IT-Servicemanagement dreht sich vieles um IT-Governance. Zur Ausrichtung der IT auf Unternehmensziele und -prozesse sowie zur effektiven und effizienten Gestaltung von Entscheidungs- und Verantwortungsstrukturen werden zunehmend Best Practise Frameworks eingesetzt. Um die aktuellen Anforderungen praxisorientiert in der Lehre vermitteln zu können, zertifizierten sich jetzt Prof. Dr. Wilhelm Jacob bei der ISACA in CoBIT und Prof. Dr. Regina Polster bei der APMG in ITIL V3.",
+    "url": null						
+	},
+	{
+    "category": "Informatik",
+    "date":[
+			2011, 03, 13
+		],
+		"title": "FH Schmalkalden stattet Thüringer Nationale Naturlandschaften und Stadt Gotha mit QR-Codes aus",
+    "description": "Die Fachhochschule Schmalkalden plant die weltweit größte QR-Code-Studie im Tourismus. Hierzu wurde heute ein Kooperationsvertrag mit der KulTourStadt Gotha GmbH und drei Thüringer Großschutzgebieten unterzeichnet. Dazu zählen die Naturparks Eichsfeld-Hainich-Werratal, Kyffhäuser und Thüringer Schiefergebirge-Obere Saale. Weitere Großschutzgebiete wie das Biosphärenreservat Vessertal-Thüringer Wald haben bereits ihr Interesse an einer Zusammenarbeit bekundet...",
+    "url": "http://www.multi-media-marketing.org/"						
+	},
+	{
+    "category": "Maschienenbau",
+    "date":[
+			2011, 02, 04
+		],
+		"title": "Studenten der Fakultät Informatik können mehr als Bits und Bytes",
+    "description": "Die Band unserer Hochschule Albert Eschrich hat im Tonstudio unserer Fakultät einen Song aufgenommen, der nun in den C-Tube Music Charts zum Monatssieger im März 2011 gewählt wurde. Einfach sehens- und hörenswert!...",
+    "url": "http://www.c-tube.de/view_video.php?viewkey=aaede18b53dca4ecfcb9"						
+	},
+	{
+    "category": "Elektrotechnik",
+    "date":[
+			2011, 01, 11
+		],
+		"title": "Rekord bei der Einwerbung von Forschungsgeldern Schmalkalden",
+    "description": "Die Fakultät Informatik hat im Jahr 2010 eine neue Bestmarke in der Einwerbung von Forschungsgeldern erreicht. Aus Forschungsprogrammen des Bundes, Kofinanzierungen von Projektstellen durch in- und ausländische Unternehmen und durch direkte Forschungs- und Entwicklungsaufträge der Wirtschaft wurde eine Summe von 385.000 € eingenommen. Einen hohen Anteil an diesem Erfolg haben die beiden Forschungsschwerpunkte Adaptive Signalanalyse und eCollaboration und Simulation...",
+    "url": "https://cms.fh-schmalkalden.de/Forschung+-p-1664.html"						
+	},
+	{
+    "category": "Elektrotechnik",
+    "date":[
+			2011, 05, 18
+		],
+		"title": "Sommerfest '20 Jahre Elektrotechnik'",
+    "description": "Die Fakultät Informatik hat im Jahr 2010 eine neue Bestmarke in der Einwerbung von Forschungsgeldern erreicht. Aus Forschungsprogrammen des Bundes, Kofinanzierungen von Projektstellen durch in- und ausländische Unternehmen und durch direkte Forschungs- und Entwicklungsaufträge der Wirtschaft wurde eine Summe von 385.000 € eingenommen. Einen hohen Anteil an diesem Erfolg haben die beiden Forschungsschwerpunkte Adaptive Signalanalyse und eCollaboration und Simulation...",
+    "url": "http://www.fh-schmalkalden.de/Sommerfest+_20+Jahre+Elektrotechnik_.html"						
+	},
+	{
+    "category": "Allgemein",
+    "date":[
+			2011, 05, 09
+		],
+		"title": "Hochschule bringt Breitband-Internet zum Berufsbildungszentrum",
+    "description": "Das Berufsbildungszentrum (BBZ) in Schmalkalden hat von nun an einen der schnellsten Internetanschlüsse der Region. Durch die Kooperation mit der Fachhochschule Schmalkalden erhält die Schul- und Ausbildungseinrichtung einen direkten Datenzugang über den Netzwerkknoten der Hochschule - mit Datenbandbreiten im Gigabit-Bereich. Am Montagvormittag wurden dafür die letzten Weichen gestellt: Hochschulrektor Elmar Heinemann übergab Schulleiter Sigold Müller die Zugangsdaten und Netzwerkschlüssel für die Inbetriebnahme des Netzwerks...",
+    "url": "http://www.fh-schmalkalden.de/Hochschule+bringt+Breitband_Internet+zum+Berufsbildungszentrum.html"						
+	},
+	{
+    "category": "Allgemein",
+    "date":[
+			2011, 04, 21
+		],
+		"title": "Wahlen im Sommersemester",
+    "description": "An der FH Schmalkalden werden im Mai neue Vertreter der Professoren, Studierenden und Mitarbeiter in den Senat, in die Fakultätsräte und in den Beirat für Gleichstellungsfragen gewählt. Die Wahlbekanntmachung finden Sie Ende April in den Aushängen der Fakultäten, im Hörsaalgebäude und dem Durchgang zu Haus C-D. Die Stimmabgabe für die Wahl findet statt am 10. und 11. Mai im Hörsaalgebäude, Raum 0011, jeweils in der Zeit von 9:30 bis 14:30 Uhr. ",
+    "url": null			
+	},
+	{
+    "category": "Allgemein",
+    "date":[
+			2011, 04, 21
+		],
+		"title": "Innovative Medizintechnik im Kunststofflabor",
+    "description": "Ein Konsortium bestehend aus der Fachhochschule Schmalkalden, der Curetis AG, und der Contexo GmbH wird im Rahmen des Zentralen Innovationsprogramms Mittelstand (ZIM) im laufenden Jahr mit einer halben Million Euro gefördert. Das Bundesministerium für Wirtschaft und Technologie unterstützt damit die Optimierung von Kunststoff-Fügeverfahren für die Serienproduktion innovativer Infektionsdiagnostika...",
+    "url": null						
+	},
+	{
+    "category": "Allgemein",
+    "date":[
+			2011, 04, 28
+		],
+		"title": "Neues Alumni-Portal der FH Schmalkalden ist online",
+    "description": "Das neue Alumni-Portal der Fachhochschule Schmalkalden ist wieder online: Unter www.fh-schmalkalden.de/alumni können sich ehemalige Studierende, Absolventen, Mitarbeiter und Professoren registrieren und direkt in Kontakt miteinander treten. Die Kommunikations- und Informationsplattform auf Basis des Open Source-Systems metacoon verfügt über zahlreiche Werkzeuge und Funktionen, die es den Absolventen erleichtert, soziale und berufliche Netzwerke zu knüpfen und mit der Hochschule in Kontakt zu bleiben. 'Das Alumni-Portal bietet zahlreiche Möglichkeiten zur zielgruppengerechten Kommunikation mit unseren Absolventen', so Rektor Professor Elmar Heinemann...",
+    "url": "http://www.fh-schmalkalden.de/Alumni-p-1382.html"						
+	},
+	{
+    "category": "Allgemein",
+    "date":[
+			2011, 04, 18
+		],
+		"title": "Reger Austausch mit bulgarischer Partneruniversität",
+    "description": "Im Rahmen eines Dozentenaustauschs lehrte Dr. Svetla Panayotova von der Technischen Universität Gabrovo in Bulgarien an der Fakultät Wirtschaftswissenschaften der Fachhochschule Schmalkalden. Zuvor stellte Professor Jürgen Gemeinhardt, Dekan der Fakultät Wirtschaftswissenschaften, die Fachhochschule Schmalkalden an der bulgarischen Partneruniversität und an einem deutschsprachigen Gymnasium in Lowetsch vor...",
+    "url": "http://www.fh-schmalkalden.de/Reger+Austausch+mit+bulgarischer+Partneruniversit%C3%A4t+.html"						
+	},
+	{
+    "category": "Allgemein",
+    "date":[
+			2011, 04, 20
+		],
+		"title": "CampusThüringenTour macht Station an der FH Schmalkalden",
+    "description": "Im Rahmen der CampusThüringenTour waren heute 13 Schülerinnen aus ganz Deutschland zu Gast an der Fachhochschule Schmalkalden. Sie informierten sich über die technischen Studiengänge und besuchten die Labore für Fahrzeugelektronik und  Automatisierungstechnik...",
+    "url": "http://www.fh-schmalkalden.de/CampusTh%C3%BCringenTour+macht+Station+an+der+FH+Schmalkalden.html"						
+	},
+	{
+    "category": "Allgemein",
+    "date":[
+			2011, 04, 15
+		],
+		"title": "'Girls Day' an der FH Schmalkalden",
+    "description": "Zum bundesweiten 'Girls Day' besuchten Schülerinnen aus Ruhla und Schmalkalden am 14. April die FH Schmalkalden. Am Girls' Day sollen die Mädchen, durch Führungen und Vorträge in Unternehmen und an Hochschulen, einen umfassenden Einblick in technische Berufsfelder und Wissenschaftsbereiche bekommen...",
+    "url": "http://www.fh-schmalkalden.de/Girls_+Day+an+der+FH+Schmalkalden.html"						
+	}
+]

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout  xmlns:android="http://schemas.android.com/apk/res/android"	
+	android:id="@+id/tutorial_main"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent" >
+	
+	<ImageView
+	   	android:layout_width="fill_parent"
+	   	android:layout_height="wrap_content"
+	   	android:src="@drawable/layout_feeder"
+	   	android:layout_gravity="bottom" />	
+	
+	<LinearLayout
+		android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:orientation="vertical" >
+	            
+	    <ImageView
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:src="@drawable/layout_header_big" />	
+	    
+	    
+	    <GridView
+	    	android:id="@+id/grid_view_menu"
+	    	android:layout_width="fill_parent" 
+			android:layout_height="fill_parent"	
+			android:paddingTop="10dip"		
+			android:numColumns="3"			
+			android:stretchMode="columnWidth"				
+			android:gravity="center" />    	    
+	  
+	</LinearLayout>
+	
+</FrameLayout>

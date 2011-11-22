@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Application constants -->
+    <string name="hello">Hello World, MapActivity!</string>
+    <string name="app_name">CampusApp</string>
+    <string name="no_entries">Keine Einträge gefunden</string>
+    <string name="all_news">Alle</string>
+    <string name="progress_dialog_text">Daten werden geladen...</string>
+    <string name="progress_failed">Verbindung zum Server fehlgeschlagen</string>
+    <string name="send_mail">Email senden</string>
+    <string name="qr_scan_failed">Gebäude nicht erkannt</string>
+    <string name="search_info">Bitte den gesuchten Raum eingeben: </string>
+    <string name="search_failed">Der gesuchte Raum wurde nicht gefunden!</string>
+        
+    <string name="infotext_news">Aktuelles</string>
+    <string name="infotext_map">Map</string>
+    <string name="infotext_mensa">Mensa</string>
+    <string name="infotext_search">Suche</string>
+    <string name="infotext_search_result">Rauminfo</string>
+    <string name="infotext_floor">Plan</string>
+    <string name="infotext_floor_list">Gebäude</string>
+    
+    <!-- Button Text -->
+    <string name="btn_qrcode">Gebäude QR-Scan</string>
+    <string name="btn_search">Suche</string>
+    <string name="btn_goto_floor">zum Gebäudeplan</string>
+    
+    <!-- QR Code Dialog Text -->
+    <string name="dia_qr_title">Barcode Scanner Download</string>
+    <string name="dia_qr_message">Auf dem Gerät ist derzeitig kein Barcode Scanner vorhanden. Möchten Sie den ZXING Scanner herunterladen?</string>
+    <string name="dia_qr_btn_yes">Ja</string>
+    <string name="dia_qr_btn_no">Nein</string>
+        
+    <!-- Map Marker Categories -->
+    <string name="mapitem_1">Gebäude</string>
+    <string name="mapitem_2">Essen</string>
+    <string name="mapitem_3">Freizeit</string>
+    <string name="mapitem_4">Verkehr</string>
+    <string name="mapitem_5">Parken</string>
+    
+    <!-- URI-Suffix (type of content) --> 
+    <string name="type_map">map_items</string>
+    <string name="type_mensa">mensa_items</string>
+    <string name="type_news">news_items</string>
+    <string name="type_floor">floor_items</string>
+      
+     <!-- Tutorial Text -->
+    <string name="tutorial_main">Hallo lieber Student,\nwenn du dich noch nicht so gut mit den Möglichkeiten des Hochschulnavigators auskennst, erzähle ich dir gerne mehr über seine Funktionen. Solltest du meine Hilfe nicht länger benötigen, kannst du das Tutorial auch jederzeit im \'Menu\' des Hauptbildschirms unter \'Einstellungen\' deaktivieren. Wegklicken kannst du mich, in dem du einfach Bildschirm berührst. Und nun, lass uns los legen!</string>
+    <string name="tutorial_mensa">Was gibt es heute eigentlich leckeres in der Mensa? \nMit dieser Funktion weißt du immer wann es dein Leibgericht gibt und welche kulinarischen Leckerbissen noch so in dieser Woche auf dich warten. \n\nGuten Appetit!</string>
+    <string name="tutorial_map">Dies ist die Kartenübersicht. \nAuf der Karte markierte Punkte könnten für dich von Interesse sein. Es gibt eine Reihe verschiedener Kategorien von Markierungen die du über das \'POI-Symbol\' in der rechten oberen Ecke aufrufen kannst. Das \'GPS-Symbol\' in der linken oberen Ecke verrät dir deine derzeitige Position auf der Karte. Dazu solltest du die \'GPS Funktion\' deines Telefons eingeschaltet haben. Unter dem Menupunkt \'Ebenen\' kannst du dir auch eine andere Darstellung für die Karte wählen.</string>
+    <string name="tutorial_news">Hier findest du alle Neuigkeiten zu den einzelnen Fachbereichen. Wähle eine bestimmte Kategorie um gezielt nach Informationen zu suchen oder wähle \'Alle\' um dir sämtliche Neuigkeiten aller Fakultäten der Fachhochschule anzuschauen.</string>
+    <string name="tutorial_floor">Dies ist eine Liste der vorhandenen Hochschulgebäude. Klicke auf ein Gebäude in der Liste um zu seiner Raum- und Grundriss-Darstellung zu gelangen.  Dort kannst du mehr über Beschaffenheit und Funktion der einzelnen Räumlichkeiten erfahren. Wenn du gerade vor einem Gebäude stehst, welches mit einem \'QR-Code\' ausgestattet ist, so kannst du auch durch einen QR-Code Scan direkt  zu dessen detaillierter Darstellung gelangen. Bedenke aber das du dazu  einen  vorinstallierten \'ZXing Barcode Reader\' benötigst.</string>
+    <string name="tutorial_search">Hier kannst du gezielt nach Räumlichkeiten an der Fachhochschule suchen. Dabei kannst du entweder eine konkrete Raumbezeichnung (z.B. F0101) oder aber eine Beschreibung (z.B. Labor) im Suchfeld eingeben. Stimmt dein gesuchter Begriff mit der Bezeichnung eines Raumes überein, so wird dir dieser daraufhin vorgeschlagen. Klicke anschließend auf \'Suche\' um zum gesuchten Raum zu gelangen.</string>
+    
+    <!-- Preferences -->
+    <string name="title_checkbox_preference">Tutorial</string>
+    <string name="summary_checkbox_preference">Hilfe für Funktionen</string>
+    
+    <!-- URI-Path -->    
+    <string name="url_path">http://dl.dropbox.com/u/8299977/mycampus/fh_schmalkalden/german/</string>
+</resources>

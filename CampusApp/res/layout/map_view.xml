@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    
+   	<FrameLayout
+   		android:layout_width="fill_parent"
+    	android:layout_height="wrap_content" >
+   
+	    <ImageView
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:src="@drawable/layout_header_small" />	
+	    	
+	    <TextView
+	    	android:id="@+id/infotext_map"
+	    	android:layout_width="wrap_content"
+	    	android:layout_height="wrap_content"	    	
+	    	android:layout_gravity="right|bottom"
+	    	android:paddingRight="10dip"
+	    	android:paddingBottom="3dip"
+	    	android:textStyle="bold|italic"
+	    	android:textColor="#00386b"
+	    	android:text="@string/infotext_map" />
+	    		
+   	</FrameLayout>
+   	     	
+    <FrameLayout
+    	android:id="@+id/tutorial_map"
+    	android:layout_width="fill_parent"
+    	android:layout_height="fill_parent" >
+    	
+    	<com.google.android.maps.MapView 		
+			android:id="@+id/mapview"
+    		android:layout_width="fill_parent"
+    		android:layout_height="fill_parent"
+    		android:padding="10px"
+    		android:clickable="true"
+    		android:apiKey="01l45Tz2Uhz8oKAs80yLn5ClGr1Z3y5kc3wOTIA" />  
+    	
+    	<RelativeLayout
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="fill_parent">
+	    	
+	    	<ImageButton
+	    		android:id="@+id/btn_geo"
+	    		android:layout_width="wrap_content"
+	    		android:layout_height="wrap_content"    		
+	    		android:layout_alignParentTop="true"
+	    		android:layout_alignParentLeft="true"
+	    		android:paddingTop="10dip"
+	    		android:paddingLeft="15dip"
+	    		android:background="@null"
+	    		android:src="@drawable/btn_geo"
+	    		android:onClick="onGeoClicked" />
+	    	
+	    	<ImageButton
+	    		android:id="@+id/btn_poi"
+	    		android:layout_width="wrap_content"
+	    		android:layout_height="wrap_content"
+	    		android:layout_alignParentTop="true"
+	    		android:layout_alignParentRight="true"
+	    		android:paddingTop="10dip"
+	    		android:paddingRight="15dip"
+	    		android:background="@null"
+	    		android:src="@drawable/btn_poi"
+	    		android:onClick="onPOIClicked" /> 
+	    		
+	    	<LinearLayout
+	    		android:id="@+id/marker_menu"	    		
+	    		android:orientation="vertical"
+	    		android:layout_width="wrap_content"
+	    		android:layout_height="wrap_content"
+	    		android:layout_below="@id/btn_poi"
+	    		android:layout_alignParentRight="true"    	
+	    		android:layout_marginRight="10dip"	
+	    		android:layout_marginTop="10dip"	
+	    		android:paddingRight="15dip"	    		
+	    		android:background="@drawable/marker_menu_shape"
+	    		android:visibility="invisible" >
+	    		
+	    		<LinearLayout
+	    			android:id="@+id/btn_marker_buildings"	
+	    			android:layout_width="wrap_content"
+	    			android:layout_height="wrap_content"
+	    			android:orientation="horizontal"
+	    			android:clickable="true"
+	    			android:onClick="onBuildingsClicked" >
+	    			
+	    			<ImageView
+	    				android:layout_width="wrap_content"
+	    				android:layout_height="wrap_content"
+	    				android:padding="7dip"
+	    				android:src="@drawable/ic_building" />
+	    			
+		    		<TextView
+		    			android:id="@+id/btn_marker_buildings"	    			
+		    			android:layout_width="wrap_content"
+		    			android:layout_height="wrap_content" 
+		    			android:layout_gravity="center_vertical"   	
+		    			android:text="@string/mapitem_1" 
+		    			android:textColor="#ffffff" />
+	    			
+	    		</LinearLayout>
+	    		
+	    		<LinearLayout
+	    			android:id="@+id/btn_marker_buildings"	
+	    			android:layout_width="wrap_content"
+	    			android:layout_height="wrap_content"
+	    			android:orientation="horizontal"
+	    			android:clickable="true"
+	    			android:onClick="onFootClicked" >
+	    			
+	    			<ImageView
+	    				android:layout_width="wrap_content"
+	    				android:layout_height="wrap_content"
+	    				android:padding="7dip"
+	    				android:src="@drawable/ic_food" />
+	    			
+		    		<TextView
+		    			android:id="@+id/btn_marker_buildings"	    			
+		    			android:layout_width="wrap_content"
+		    			android:layout_height="wrap_content" 
+		    			android:layout_gravity="center_vertical"   	
+		    			android:text="@string/mapitem_2" 
+		    			android:textColor="#ffffff" />
+	    			
+	    		</LinearLayout>
+	    		
+	    		<LinearLayout
+	    			android:id="@+id/btn_marker_buildings"	
+	    			android:layout_width="wrap_content"
+	    			android:layout_height="wrap_content"
+	    			android:orientation="horizontal"
+	    			android:clickable="true"
+	    			android:onClick="onSportsClicked" >
+	    			
+	    			<ImageView
+	    				android:layout_width="wrap_content"
+	    				android:layout_height="wrap_content"
+	    				android:padding="7dip"
+	    				android:src="@drawable/ic_sports" />
+	    			
+		    		<TextView 
+		    			android:id="@+id/btn_marker_buildings"	    			
+		    			android:layout_width="wrap_content"
+		    			android:layout_height="wrap_content" 
+		    			android:layout_gravity="center_vertical"   	
+		    			android:text="@string/mapitem_3" 
+		    			android:textColor="#ffffff" />
+	    			
+	    		</LinearLayout>
+	    		
+	    		<LinearLayout
+	    			android:id="@+id/btn_marker_buildings"	
+	    			android:layout_width="wrap_content"
+	    			android:layout_height="wrap_content"
+	    			android:orientation="horizontal"
+	    			android:clickable="true"
+	    			android:onClick="onTrafficClicked" >
+	    			
+	    			<ImageView
+	    				android:layout_width="wrap_content"
+	    				android:layout_height="wrap_content"
+	    				android:padding="7dip"
+	    				android:src="@drawable/ic_traffic" />
+	    			
+		    		<TextView
+		    			android:id="@+id/btn_marker_buildings"	    			
+		    			android:layout_width="wrap_content"
+		    			android:layout_height="wrap_content" 
+		    			android:layout_gravity="center_vertical"   	
+		    			android:text="@string/mapitem_4" 
+		    			android:textColor="#ffffff" />
+	    			
+	    		</LinearLayout>    		
+	    		
+	    		<LinearLayout
+	    			android:id="@+id/btn_marker_buildings"	
+	    			android:layout_width="wrap_content"
+	    			android:layout_height="wrap_content"
+	    			android:orientation="horizontal"
+	    			android:clickable="true"
+	    			android:onClick="onParkingClicked" >
+	    			
+	    			<ImageView
+	    				android:layout_width="wrap_content"
+	    				android:layout_height="wrap_content"
+	    				android:padding="7dip"
+	    				android:src="@drawable/ic_parking" />
+	    			
+		    		<TextView
+		    			android:id="@+id/btn_marker_buildings"	    			
+		    			android:layout_width="wrap_content"
+		    			android:layout_height="wrap_content" 
+		    			android:layout_gravity="center_vertical"   	
+		    			android:text="@string/mapitem_5" 
+		    			android:textColor="#ffffff" />
+	    			
+	    		</LinearLayout>    		
+	    		
+	    	</LinearLayout>    		
+	    
+	    </RelativeLayout> 
+	       	
+	</FrameLayout>
+	    
+</LinearLayout>
